@@ -1,9 +1,3 @@
 {
-    "files.exclude": {
-      "**/.github": true,
-      "**/.reuse": true,
-      "**/.vscode": true,
-      "LICENSES": true
-    }
-  }
-  
+    "debug.javascript.autoAttachFilter": "smart"
+}
